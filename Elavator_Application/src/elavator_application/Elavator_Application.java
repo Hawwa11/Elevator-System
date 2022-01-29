@@ -8,13 +8,7 @@ package elavator_application;
  *
  * @author uSER
  */
-public class Elavator_Application {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class Elavator_Application 
+{
     
 }

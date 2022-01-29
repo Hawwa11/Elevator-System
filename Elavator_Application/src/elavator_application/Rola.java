@@ -8,6 +8,7 @@ package elavator_application;
  *
  * @author Vaio
  */
-public class Rola {
+public class Rola 
+{
     
 }
